@@ -1,0 +1,34 @@
+{
+    "name": "vicistack/call-center-cost-per-lead-benchmarks",
+    "description": "Call Center Cost Per Lead Benchmarks: How Does Your Operation Stack Up?",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "vicidial",
+        "asterisk",
+        "call-center",
+        "voip",
+        "predictive-dialer",
+        "call",
+        "center",
+        "cost",
+        "per",
+        "lead",
+        "benchmarks"
+    ],
+    "homepage": "https://vicistack.com/blog/call-center-cost-per-lead-benchmarks/",
+    "authors": [
+        {
+            "name": "ViciStack",
+            "homepage": "https://vicistack.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "ViciStack\\CallCenterCostPerLeadBenchmarks\\": "src/"
+        }
+    }
+}
